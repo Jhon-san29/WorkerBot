@@ -1,0 +1,7 @@
+{
+  "name": "WokerBot",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-workerbot": "^0.61.0"
+  }
+}
